@@ -1,0 +1,14 @@
+uuid: c56cf33f-c302-4cb7-837d-c931aee9631c
+name: 'Drupal 8.8 Testing'
+mail: lera.atwater@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

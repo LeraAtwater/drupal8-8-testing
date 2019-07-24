@@ -1,0 +1,14 @@
+uuid: 64391151-f8a0-40d5-9247-c0617127ee18
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - lera.atwater@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
